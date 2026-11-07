@@ -1132,5 +1132,31 @@ export const PRODUCTS = [
     "badgeCls": "",
     "desc": "A árvore de Natal que se mexe: impressa de uma vez só, sem suportes e sem AMS, com perninhas e bracinhos articulados que dão vida à decoração. A gente testa a articulação de cada peça antes de enviar — e ela chega prontinha pra enfeitar a mesa ou a prateleira.",
     "img": "/images/arvore-articulada-natal.jpg"
+  },
+  {
+    "id": "letreiro-feliz-natal",
+    "name": "Letreiro Feliz Natal — Placa Decorativa",
+    "cat": "natal",
+    "price": 35,
+    "grams": "≈56 g",
+    "time": "≈1,4 h de impressão",
+    "alt": "Letreiro decorativo Feliz Natal impresso em 3D com pinheirinho e estrela",
+    "badge": "Feliz Natal",
+    "badgeCls": "hot",
+    "desc": "O “Feliz Natal” em português, em placa decorativa de base plana: pinheirinho, estrela e bolinha compondo o letreiro — simples e fácil de imprimir, pronto pra aparador, mesa da ceia ou entrada da casa. Na foto, a versão vermelha de referência; o seu sai em 1 cor: cinza, preto ou branco.",
+    "img": "/images/letreiro-feliz-natal.jpg"
+  },
+  {
+    "id": "arvore-presente-doces",
+    "name": "Árvore Porta-Doces e Presentes — 25 cm",
+    "cat": "natal",
+    "price": 119,
+    "grams": "≈498 g",
+    "time": "tempo a confirmar",
+    "alt": "Árvore de Natal impressa em 3D com compartimento escondido para doces",
+    "badge": "Compartimento secreto",
+    "badgeCls": "season",
+    "desc": "A árvore de Natal de 25 cm com compartimento escondido: abre a copa e guarda doces, chocolates, presentinhos ou dinheiro — o presente que esconde outro presente. Vendemos só a versão com cavilha, de montagem simples e firme, sem precisar de ímãs. O suporte interno é chatinho de remover, então a gente cuida do acabamento antes da entrega. Na foto, as árvores de referência em verde e branco; a sua sai em 1 cor: cinza, preto ou branco.",
+    "img": "/images/arvore-presente-doces.jpg"
   }
 ]
