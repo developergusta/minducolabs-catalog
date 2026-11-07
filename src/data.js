@@ -1158,5 +1158,47 @@ export const PRODUCTS = [
     "badgeCls": "season",
     "desc": "A árvore de Natal de 25 cm com compartimento escondido: abre a copa e guarda doces, chocolates, presentinhos ou dinheiro — o presente que esconde outro presente. Vendemos só a versão com cavilha, de montagem simples e firme, sem precisar de ímãs. O suporte interno é chatinho de remover, então a gente cuida do acabamento antes da entrega. Na foto, as árvores de referência em verde e branco; a sua sai em 1 cor: cinza, preto ou branco.",
     "img": "/images/arvore-presente-doces.jpg"
+  },
+  {
+    "id": "trio-aboboras",
+    "name": "Trio de Abóboras — Outono & Halloween",
+    "cat": "decor",
+    "price": 49,
+    "grams": "≈223 g o kit",
+    "time": "tempo a confirmar",
+    "alt": "Trio de abóboras decorativas impressas em 3D com vela de LED",
+    "badge": "Kit 3 un.",
+    "badgeCls": "",
+    "colorNote": "Sugerimos o laranja pra esse trio — é só combinar no WhatsApp na hora do pedido.",
+    "desc": "Três abóboras caneladas pra estação: a menor vira porta-vela para velinha de LED de até 40 mm — a luz acesa dentro deixa o trio com cara de noite de outono. Sem suportes, perfil A1 de 1 cor confirmado, sem AMS. O kit com as 3 abóboras, pra mesa, janela ou porta de entrada no Halloween.",
+    "img": "/images/trio-aboboras.jpg"
+  },
+  {
+    "id": "raposa-esper",
+    "name": "Raposinha Esper — Chibi de Mesa",
+    "cat": "decor",
+    "price": 15,
+    "grams": "≈6 g",
+    "time": "≈30 min de impressão",
+    "alt": "Raposinhas chibi coloridas impressas em 3D enfileiradas",
+    "badge": "",
+    "badgeCls": "",
+    "colorNote": "Sugerimos o laranja pra essa raposinha — é só combinar no WhatsApp na hora do pedido.",
+    "desc": "A raposinha chibi de rabo grande e sorriso calmo: só 6 g e 30 minutinhos de impressão, sem suportes, em 1 cor. Companheira de mesa, amuleto de sorte ou chaveiro — o arquivo já traz o furinho pra virar chaveiro, avisa no pedido se quiser com ou sem ele. Na foto, as raposinhas de referência em várias cores; a sua sai em 1 cor.",
+    "img": "/images/raposa-esper.jpg"
+  },
+  {
+    "id": "peixe-palhaco",
+    "name": "Peixe-Palhaço Articulado",
+    "cat": "flexi",
+    "price": 19,
+    "grams": "≈11 g",
+    "time": "tempo a confirmar",
+    "alt": "Peixe-palhaço articulado laranja e branco impresso em 3D",
+    "badge": "",
+    "badgeCls": "",
+    "colorNote": "Sugerimos o laranja pra esse peixinho — é só combinar no WhatsApp na hora do pedido.",
+    "desc": "O peixe-palhaço articulado: corpo segmentado que se mexe de verdade, impresso de uma vez só, sem suportes, na versão de 1 cor. O autor recomenda não reduzir a escala, pra articulação funcionar direitinho. Na foto, a versão colorida de referência; o seu sai em 1 cor. Modelo solidário: o autor doa os apoios do modelo para uma fundação de apoio a crianças.",
+    "img": "/images/peixe-palhaco.jpg"
   }
 ]
